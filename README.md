@@ -26,7 +26,6 @@ or<br/>
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
-<img src="README/Yours-UEFI.png">
 </details>
 
 ## ⭐Star🌟
