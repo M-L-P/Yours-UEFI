@@ -34,6 +34,7 @@ or<br/>
 - Copy the folder `zip: EFI\Yours` into `ESP: \EFI`;
 - Delete the folder `ESP: EFI\Boot`;
 - Copy the folder `zip: EFI\Boot` into `ESP: \EFI`;
+- Copy the file `zip: startup.nsh` into `ESP: \`;
 
 #### For Hackintosh
 If you want,
