@@ -7,7 +7,9 @@ Your own usual rEFInd's sign for UEFI.
 - 64bit UEFI supported;
 - GPU/vBIOS UEFI supported;
 #### Working Principle
-[Power On]=>[UEFI Firmware]=>[bootx64.efi]=>[__PBR__]=>[__CLOVERX64.EFI__(`refind_x64.efi` renamed)]=>[__Yours__]
+[Power On]=>[UEFI Firmware]=>[bootx64.efi]=>[Yours]<br/>
+or<br/>
+[Power On]=>[UEFI Firmware]=>[Yours_x64.efi]=>[Yours]<br/>
 #### File Tree
 <img src="README/Yours-LegacyBIOS.png">
 
