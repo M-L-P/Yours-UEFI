@@ -11,7 +11,7 @@ Your own usual rEFInd's sign for UEFI.
 or<br/>
 [Power On]=>[UEFI Firmware]=>[Yours_x64.efi]=>[Yours]<br/>
 #### File Tree
-<img src="README/Yours-LegacyBIOS.png">
+<img src="README/Yours-UEFI.png">
 
 ## 💻️Preview👀
 
