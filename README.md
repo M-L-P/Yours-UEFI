@@ -3,16 +3,25 @@
 
 # Yours-UEFI
 Your own usual rEFInd's sign for UEFI.
+#### Your device should meet the requirements,
+- 64bit UEFI supported;
+- GPU/vBIOS UEFI supported;
+#### Working Principle
+[Power On]=>[UEFI Firmware]=>[bootx64.efi]=>[Yours]<br/>
+or<br/>
+[Power On]=>[UEFI Firmware]=>[Yours_x64.efi]=>[Yours]<br/>
+#### File Tree
+<img src="README/Yours-LegacyBIOS.png">
 
-## 🧭Guide⬇️
+## 💻️Preview👀
 
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
-
+<img src="README/about.real.png">
 </details>
 
-## 💻️Preview👀
+## 🧭Guide⬇️
 
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
