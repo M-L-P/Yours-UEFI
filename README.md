@@ -23,9 +23,6 @@ or<br/>
 
 ## 🧭Guide⬇️
 
-<details>
-<summary>🖱️Click to Unfold to see🖱️</summary>
-
 ### Manage ESP
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
@@ -66,17 +63,10 @@ https://www.diskgenius.com/manual/set-uefi-bios-boot-entries.php
 
 </details>
 
-</details>
-
 ## 📝FAQ❓️
 Frequently asked question
-<details>
-<summary>🖱️Click to Unfold to see🖱️</summary>
-
 ### Secure Boot
 http://www.rodsbooks.com/refind/secureboot.html
-
-</details>
 
 ## ⭐Star🌟
 If you like it and are looking forward to the coming update, you can star it.💫
