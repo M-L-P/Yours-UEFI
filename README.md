@@ -65,7 +65,7 @@ You need to perform the following steps.
 <summary>🖱️Click to Unfold to see🖱️</summary>
 https://www.diskgenius.com/manual/set-uefi-bios-boot-entries.php
 
-![set-uefi-bios-boot-entries-02](https://github.com/M-L-P/Yours-UEFI/assets/69227436/2f7cc14d-e8c0-434e-bd8b-1a6d51f4ac57)
+[![set-uefi-bios-boot-entries-02](https://github.com/M-L-P/Yours-UEFI/assets/69227436/2f7cc14d-e8c0-434e-bd8b-1a6d51f4ac57)](https://www.diskgenius.com/manual/set-uefi-bios-boot-entries.php)
 
 </details>
 
@@ -82,6 +82,8 @@ If you like it and are looking forward to the coming update, you can star it.�
 - [grub2-filemanager](https://github.com/a1ive/grub2-filemanager) of [a1ive](https://github.com/a1ive);
 
 ## 🧁Buy me a piece of chocolate🍫
+<details>
+<summary>🖱️Click to Unfold to see🖱️</summary>
 I have no father; No man celebrates my birthday; No man buys me a cake🎂.<br/>
 If you are willing, please treat me to a piece of chocolate🍫.<br/>
 I need chocolate🍫 to help me release endorphins and dopamine to get rid of pain.<br/>
@@ -90,3 +92,4 @@ I would be very grateful to you, fairy lady🧚 or handsome knight🦸‍♂️.
 <img src="https://github.com/M-L-P/Yours/assets/69227436/8608e193-3c4d-4926-8171-7944e881d95f" width="300px">
 
 [The List of Fairy Lady🧚 or Handsome kKnight🦸‍♂️](https://github.com/M-L-P/.github/blob/main/list/README.md)
+</details>
