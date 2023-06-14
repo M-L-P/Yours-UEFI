@@ -8,7 +8,7 @@
 
 # Yours-UEFI
 Y-o-u-r-s,<br/>
-Your own usual rEFInd's sign for UEFI.
+Your own usual rEFInd's sign for UEFI firmware.
 #### Your device should meet the requirements,
 - 64bit UEFI supported;
 - GPU/vBIOS UEFI supported;
