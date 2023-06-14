@@ -17,14 +17,14 @@ Your own usual rEFInd's sign for UEFI.
 or<br/>
 [Power On]=>[UEFI Firmware]=>[Yours_x64.efi]=>[Yours]<br/>
 #### File Tree
-<img src="README/Yours-UEFI.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/Yours-UEFI.png">
 
 ## 💻️Preview👀
 
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
-<img src="README/about.real.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/about.real.png">
 </details>
 
 ## 🧭Guide⬇️
