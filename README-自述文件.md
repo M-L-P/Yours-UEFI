@@ -24,6 +24,7 @@ or<br/>
 #### 文件结构树状图
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/Yours-UEFI.png">
 
+-----------------------------------------------------------------------------------------------------------------------------------
 ## 💻️预览👀
 
 <details>
