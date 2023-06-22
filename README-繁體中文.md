@@ -12,7 +12,7 @@
 
 <h1 align="center">Yours-UEFI</h1>
 
-Y-o-u-r-s,<br/>
+[Y-o-u-r-s](https://github.com/M-L-P/rEFInd-theme-Yours),<br/>
 Your own usual rEFInd's sign for UEFI firmware.
 #### 你的設備應該滿足條件,
 - 支持 64bit UEFI；
