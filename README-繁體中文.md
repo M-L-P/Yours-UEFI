@@ -12,6 +12,7 @@
 
 <h1 align="center">Yours-UEFI</h1>
 
+🚩[🖱️Click to Jump to Yours🖱️](https://github.com/M-L-P/rEFInd-theme-Yours)
 [Y-o-u-r-s](https://github.com/M-L-P/rEFInd-theme-Yours),<br/>
 Your own usual rEFInd's sign for UEFI firmware.
 #### 你的設備應該滿足條件,
@@ -31,6 +32,7 @@ or<br/>
 <summary>🖱️點擊展開查看🖱️</summary>
 
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/about.real.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.big.png">
 </details>
 
 ## 🧭指南⬇️
