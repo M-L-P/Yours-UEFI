@@ -12,7 +12,7 @@
 
 <h1 align="center">Yours-UEFI</h1>
 
-🚩[🖱️Click to Jump to Yours🖱️](https://github.com/M-L-P/rEFInd-theme-Yours)
+🚩[🖱️Click to Jump to Yours🖱️](https://github.com/M-L-P/rEFInd-theme-Yours)<br/>
 [Y-o-u-r-s](https://github.com/M-L-P/rEFInd-theme-Yours),<br/>
 Your own usual rEFInd's sign for UEFI firmware.
 #### Your device should meet the requirements,
