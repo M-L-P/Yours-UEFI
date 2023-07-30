@@ -14,14 +14,14 @@
 
 🚩[🖱️Click to Jump to Yours🖱️](https://github.com/M-L-P/rEFInd-theme-Yours)<br/>
 [Y-o-u-r-s](https://github.com/M-L-P/rEFInd-theme-Yours),<br/>
-Your own usual rEFInd's sign for UEFI firmware.
+Your own usual rEFInd's sign for UEFI firmware.<br/>
+多虧了安全啟動補丁，來自 [ValdikSS](https://github.com/ValdikSS) 的 [Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk)，<br/>
+終於能夠在安全啟動模式開啟的情況下，加載 Clover 或 OpenCore 進而啟動黑蘋果，可以不用再關閉安全啟動模式了。
 #### 你的設備應該滿足條件,
 - 支持 64bit UEFI；
 - GPU/vBIOS 支持 UEFI；
 #### 工作原理
-[Power On]=>[UEFI Firmware]=>[bootx64.efi]=>[Yours]<br/>
-or<br/>
-[Power On]=>[UEFI Firmware]=>[Yours_x64.efi]=>[Yours]<br/>
+[Power On]=>[UEFI Firmware]=>[BOOTX64.EFI] `shimx64.efi` 重命名的 =>[grubx64.efi] `PreLoader.efi` 重命名的 =>[grubx64_real.efi] 鏈接到 `Yours_x64.efi` =>[Yours_x64.efi]=>[Yours]<br/>
 #### 文件結構樹狀圖
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/Yours-UEFI.png">
 
@@ -81,6 +81,7 @@ https://www.diskgenius.com/manual/set-uefi-bios-boot-entries.php
 常見問題
 ### 安全啟動
 http://www.rodsbooks.com/refind/secureboot.html
+https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk
 
 ## ⭐收藏🌟
 如果你喜歡並且期待未來的更新，你可以點亮星星。💫
@@ -88,6 +89,7 @@ http://www.rodsbooks.com/refind/secureboot.html
 ## 🎉來源🎊
 - *Roderick W. Smith* 的 [rEFInd Boot Manager](http://www.rodsbooks.com/refind/)；
 - [a1ive](https://github.com/a1ive) 的 [grub2-filemanager](https://github.com/a1ive/grub2-filemanager)；
+- 安全啟動補丁來自 [ValdikSS](https://github.com/ValdikSS) 的 [Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk);
 
 ## 🧁請我吃塊巧克力🍫
 <details>

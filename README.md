@@ -14,14 +14,14 @@
 
 🚩[🖱️Click to Jump to Yours🖱️](https://github.com/M-L-P/rEFInd-theme-Yours)<br/>
 [Y-o-u-r-s](https://github.com/M-L-P/rEFInd-theme-Yours),<br/>
-Your own usual rEFInd's sign for UEFI firmware.
+Your own usual rEFInd's sign for UEFI firmware.<br/>
+Thank to Security bypass patches from [Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk) of [ValdikSS](https://github.com/ValdikSS),<br/>
+it can even load Clover or OpenCore to boot Hackintosh with SecureBoot enabled, not disabled anymore.
 #### Your device should meet the requirements,
 - 64bit UEFI supported;
 - GPU/vBIOS UEFI supported;
 #### Working Principle
-[Power On]=>[UEFI Firmware]=>[bootx64.efi]=>[Yours]<br/>
-or<br/>
-[Power On]=>[UEFI Firmware]=>[Yours_x64.efi]=>[Yours]<br/>
+[Power On]=>[UEFI Firmware]=>[BOOTX64.EFI] `shimx64.efi` renamed =>[grubx64.efi] `PreLoader.efi` renamed =>[grubx64_real.efi] Linked to `Yours_x64.efi` =>[Yours_x64.efi]=>[Yours]<br/>
 #### File Tree
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/Yours-UEFI.png">
 
@@ -81,6 +81,7 @@ https://www.diskgenius.com/manual/set-uefi-bios-boot-entries.php
 Frequently asked question
 ### Secure Boot
 http://www.rodsbooks.com/refind/secureboot.html
+https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk
 
 ## ⭐Star🌟
 If you like it and are looking forward to the coming update, you can star it.💫
@@ -88,6 +89,7 @@ If you like it and are looking forward to the coming update, you can star it.�
 ## 🎉Credit🎊
 - [rEFInd Boot Manager](http://www.rodsbooks.com/refind/) of *Roderick W. Smith*;
 - [grub2-filemanager](https://github.com/a1ive/grub2-filemanager) of [a1ive](https://github.com/a1ive);
+- Security bypass patches from [Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk) of [ValdikSS](https://github.com/ValdikSS);
 
 ## 🧁Buy me a piece of chocolate🍫
 <details>
