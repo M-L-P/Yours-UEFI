@@ -80,7 +80,7 @@ https://www.diskgenius.com/manual/set-uefi-bios-boot-entries.php
 ## 📝FAQ❓️
 Frequently asked question
 ### Secure Boot
-http://www.rodsbooks.com/refind/secureboot.html
+http://www.rodsbooks.com/refind/secureboot.html<br/>
 https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk
 
 ## ⭐Star🌟
