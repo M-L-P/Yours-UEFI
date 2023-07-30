@@ -73,7 +73,7 @@ Your own usual rEFInd's sign for UEFI firmware.<br/>
 <summary>🖱️點擊展開查看🖱️</summary>
 https://www.diskgenius.com/manual/set-uefi-bios-boot-entries.php
 
-[<img src="https://github.com/M-L-P/Yours-UEFI/assets/69227436/2f7cc14d-e8c0-434e-bd8b-1a6d51f4ac57">](https://www.diskgenius.com/manual/set-uefi-bios-boot-entries.php)
+[<img src="https://github.com/M-L-P/Yours-UEFI/assets/69227436/df531a15-a171-49c3-8c8a-59447c2f396e">](https://www.diskgenius.com/manual/set-uefi-bios-boot-entries.php)
 
 </details>
 
