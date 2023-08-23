@@ -66,7 +66,7 @@ File Name|Directory|Principle|Function
 - Set `LauncherOption=System` by editing `config.plist`;
 
 #### Without Hackintosh
--You can select the icon of Clover or OC, press [Delete], and hide the corresponding entry.
+- You can select the icon of Clover or OC, press [Delete], and hide the corresponding entry.
 </details>
 
 </details>
