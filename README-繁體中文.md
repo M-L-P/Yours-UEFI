@@ -42,10 +42,11 @@ Your own usual rEFInd's sign for UEFI firmware.<br/>
 <summary>🖱️點擊展開查看🖱️</summary>
 
 #### 復製到 ESP 分區
-- 復製文件夾 `zip: EFI\Yours` 到 `ESP: \EFI`；
-- 刪除文件夾 `ESP: EFI\Boot`；
-- 復製文件夾 `zip: EFI\Boot` 到 `ESP: \EFI`；
-- 復製文件 `zip: startup.nsh` 到 `ESP: \`；
+- 刪除文件夾 `ESP: ESP\EFI\Boot`；
+- 復製文件夾 `zip: ESP\EFI\Yours` 到 `ESP: \EFI`；
+- 復製文件夾 `zip: ESP\EFI\BOOT` 到 `ESP: \EFI`；
+- 復製文件 `zip: ESP\startup.nsh` 到 `ESP: \`；
+- 復製文件 `zip: ESP\ENROLL_THIS_KEY_IN_MOKMANAGER.cer` 到 `ESP: \`；
 
 #### 若有 Hackintosh
 為了讓

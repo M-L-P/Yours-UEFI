@@ -42,10 +42,11 @@ Your own usual rEFInd's sign for UEFI firmware.<br/>
 <summary>🖱️点击展开查看🖱️</summary>
 
 #### 复制到 ESP 分区
-- 复制文件夹 `zip: EFI\Yours` 到 `ESP: \EFI`；
-- 删除文件夹 `ESP: EFI\Boot`；
-- 复制文件夹 `zip: EFI\Boot` 到 `ESP: \EFI`；
-- 复制文件 `zip: startup.nsh` 到 `ESP: \`；
+- 删除文件夹 `ESP: ESP\EFI\Boot`；
+- 复制文件夹 `zip: ESP\EFI\Yours` 到 `ESP: \EFI`；
+- 复制文件夹 `zip: ESP\EFI\BOOT` 到 `ESP: \EFI`；
+- 复制文件 `zip: ESP\startup.nsh` 到 `ESP: \`；
+- 复制文件 `zip: ESP\ENROLL_THIS_KEY_IN_MOKMANAGER.cer` 到 `ESP: \`；
 
 #### 若有 黑苹果
 为了让

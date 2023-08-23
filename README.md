@@ -42,10 +42,11 @@ it can even load Clover or OpenCore to boot Hackintosh with Secure Boot enabled,
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
 #### Copy in ESP
-- Copy the folder `zip: EFI\Yours` into `ESP: \EFI`;
-- Delete the folder `ESP: EFI\Boot`;
-- Copy the folder `zip: EFI\Boot` into `ESP: \EFI`;
-- Copy the file `zip: startup.nsh` into `ESP: \`;
+- Delete the folder `ESP: ESP\EFI\Boot`;
+- Copy the folder `zip: ESP\EFI\Yours` into `ESP: \EFI`;
+- Copy the folder `zip: ESP\EFI\BOOT` into `ESP: \EFI`;
+- Copy the file `zip: ESP\startup.nsh` into `ESP: \`;
+- Copy the file `zip: ESP\ENROLL_THIS_KEY_IN_MOKMANAGER.cer` into `ESP: \`;
 
 #### For Hackintosh
 In order to ensure 
