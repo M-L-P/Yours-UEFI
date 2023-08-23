@@ -1,3 +1,5 @@
+- [🖱️点击跳转查看🖱️](https://github.com/M-L-P/rEFInd-theme-Yours)<br/>
+
 <div align="center">
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours-UEFI)](https://github.com/M-L-P/Yours-UEFI/releases/latest)
@@ -12,7 +14,6 @@
 
 <h1 align="center">Yours-UEFI</h1>
 
-- [🖱️Click to Jump to Yours🖱️](https://github.com/M-L-P/rEFInd-theme-Yours)<br/>
 [Y-o-u-r-s](https://github.com/M-L-P/rEFInd-theme-Yours),<br/>
 Your own usual rEFInd's sign for UEFI firmware.<br/>
 多亏了安全启动补丁，来自 [ValdikSS](https://github.com/ValdikSS) 的 [Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk)，<br/>
