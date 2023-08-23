@@ -12,7 +12,7 @@
 
 <h1 align="center">Yours-UEFI</h1>
 
-🚩[🖱️Click to Jump to Yours🖱️](https://github.com/M-L-P/rEFInd-theme-Yours)<br/>
+- [🖱️Click to Jump to Yours🖱️](https://github.com/M-L-P/rEFInd-theme-Yours)<br/>
 [Y-o-u-r-s](https://github.com/M-L-P/rEFInd-theme-Yours),<br/>
 Your own usual rEFInd's sign for UEFI firmware.<br/>
 Thank to Security bypass patches from [Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk) of [ValdikSS](https://github.com/ValdikSS),<br/>

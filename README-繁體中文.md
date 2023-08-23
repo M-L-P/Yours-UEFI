@@ -12,7 +12,7 @@
 
 <h1 align="center">Yours-UEFI</h1>
 
-🚩[🖱️Click to Jump to Yours🖱️](https://github.com/M-L-P/rEFInd-theme-Yours)<br/>
+- [🖱️Click to Jump to Yours🖱️](https://github.com/M-L-P/rEFInd-theme-Yours)<br/>
 [Y-o-u-r-s](https://github.com/M-L-P/rEFInd-theme-Yours),<br/>
 Your own usual rEFInd's sign for UEFI firmware.<br/>
 多虧了安全啟動補丁，來自 [ValdikSS](https://github.com/ValdikSS) 的 [Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk)，<br/>
