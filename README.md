@@ -96,4 +96,4 @@ If you like it and are looking forward to the coming update, you can star it.�
 - [grub2-filemanager](https://github.com/a1ive/grub2-filemanager) of [a1ive](https://github.com/a1ive);
 - Security bypass patches from [Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk) of [ValdikSS](https://github.com/ValdikSS);
 
-## [🧁Buy me a piece of chocolate🍫](https://github.com/M-L-P/.github/blob/main/chocolate/chocolate.md)
+## [🧁Buy me a piece of chocolate🍫](https://github.com/M-L-P/.github/blob/main/profile/chocolate/README.md)
