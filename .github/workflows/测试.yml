@@ -4,12 +4,12 @@ on:
   push:
     branches: [ "main" ]
     paths:
-      - '.github/workflows/打包.yml'
+      - '.github/workflows/测试.yml'
       - 'ESP/**'
   pull_request:
     branches: [ "main" ]
     paths:
-      - '.github/workflows/打包.yml'
+      - '.github/workflows/测试.yml'
       - 'ESP/**'
 
 jobs:
