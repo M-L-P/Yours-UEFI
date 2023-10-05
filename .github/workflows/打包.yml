@@ -25,7 +25,7 @@ jobs:
     - uses: actions/checkout@v3
     - name: 归档 ${{ matrix.type }}
       run: |
-        sudo bash ./git.sh
+        git submodule update --remote
         ls -l
         cd ESP
         ls -l
