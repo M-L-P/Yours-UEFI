@@ -30,6 +30,7 @@ jobs:
         sudo rm -r ./rEFInd-theme-Yours/docs
         sudo rm -r ./rEFInd-theme-Yours/.git
         sudo cp -r ./rEFInd-theme-Yours/* ./Yours
+        sudo rm -r ./rEFInd-theme-Yours
         ls -l
         
     - name: 上传到此处
