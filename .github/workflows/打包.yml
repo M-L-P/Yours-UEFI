@@ -18,12 +18,14 @@ jobs:
       matrix:
         type: [Yours-UEFI]
 
+    name: 打包 ${{ matrix.type }}
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v3
     - name: 归档 ${{ matrix.type }}
       run: |
+        sudo bash ./git.sh
         ls -l
         cd ESP
         ls -l
