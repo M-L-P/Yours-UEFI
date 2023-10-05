@@ -29,7 +29,7 @@ jobs:
         git clone https://github.com/M-L-P/rEFInd-theme-Yours.git
         sudo rm -r ./rEFInd-theme-Yours/docs
         sudo rm -r ./rEFInd-theme-Yours/.git
-        sudo cp ./rEFInd-theme-Yours/* ./Yours
+        sudo cp -r ./rEFInd-theme-Yours/* ./Yours
         ls -l
         
     - name: 上传到此处
