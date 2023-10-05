@@ -28,7 +28,14 @@ jobs:
         git clone https://github.com/M-L-P/Yours-UEFI.git
         git submodule update --remote
         ls -l
-        sudo rm -r ./Yours-UEFI/ESP/EFI/Yours/docs
+        cd Yours-UEFI
+        ls -l
+        cd ESP
+        ls -l
+        cd EFI
+        ls -l
+        cd Yours
+        ls -l
     - name: 上传到此处
       uses: actions/upload-artifact@v3.1.0
       with:
