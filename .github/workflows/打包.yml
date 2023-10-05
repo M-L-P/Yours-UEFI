@@ -25,17 +25,12 @@ jobs:
     - uses: actions/checkout@v3
     - name: 归档 ${{ matrix.type }}
       run: |
-        git clone https://github.com/M-L-P/Yours-UEFI.git
-        git submodule update --remote
+        cd ESP/EFI
+        git clone https://github.com/M-L-P/rEFInd-theme-Yours.git
+        sudo rm -r ./rEFInd-theme-Yours/docs
+        sudo mv -r rEFInd-theme-Yours Yours
         ls -l
-        cd Yours-UEFI
-        ls -l
-        cd ESP
-        ls -l
-        cd EFI
-        ls -l
-        cd Yours
-        ls -l
+        
     - name: 上传到此处
       uses: actions/upload-artifact@v3.1.0
       with:
