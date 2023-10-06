@@ -5,7 +5,6 @@
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours-UEFI)](https://github.com/M-L-P/Yours-UEFI/releases/latest)
 [![GitHub all releases](https://img.shields.io/github/downloads/M-L-P/Yours-UEFI/total)](https://github.com/M-L-P/Yours-UEFI/releases)
-
 [![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/M-L-P/Yours-UEFI/%E6%89%93%E5%8C%85.yml)](https://github.com/M-L-P/Yours-UEFI/actions)
 [![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/Yours-UEFI)](https://github.com/M-L-P/Yours-UEFI/discussions)
 [![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/Yours-UEFI?style=social)](https://github.com/M-L-P/Yours-UEFI/stargazers)
