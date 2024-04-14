@@ -26,7 +26,7 @@ Your own usual rEFInd's sign for UEFI firmware.<br/>
 #### 工作原理
 [Power On]=>[UEFI Firmware]=>[BOOTX64.EFI] `shimx64.efi` 重命名的 =>[fbx64.efi] `PreLoader.efi` 重命名的 =>[grubx64_real.efi] 链接到 `Yours_x64.efi` =>[Yours_x64.efi]=>[Yours]<br/>
 #### 文件结构树状图
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/Yours-UEFI.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/Yours-UEFI.png">
 
 -----------------------------------------------------------------------------------------------------------------------------------
 ## 💻️预览👀
@@ -34,8 +34,8 @@ Your own usual rEFInd's sign for UEFI firmware.<br/>
 <details>
 <summary>🖱️点击展开查看🖱️</summary>
 
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/about.real.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.big.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/about.real.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.big.png">
 </details>
 
 ## 🧭指南⬇️
