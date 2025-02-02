@@ -24,7 +24,7 @@ Your own usual rEFInd's sign for UEFI firmware.<br/>
 - 支援 64bit UEFI；
 - GPU/vBIOS 支援 UEFI；
 #### 工作原理
-[Power On]=>[UEFI Firmware]=>[BOOTX64.EFI] `shimx64.efi` 重新命名的 =>[MokManager.efi] `PreLoader.efi` 重新命名的 =>[grubx64_real.efi] 連結到 `Yours_x64.efi` =>[Yours_x64.efi]=>[Yours]<br/>
+[Power On]=>[UEFI Firmware]=>[Bootx64.efi] `shimx64.efi` 重新命名的 =>[MokManager.efi] `PreLoader.efi` 重新命名的 =>[grubx64_real.efi] 連結到 `Yours_x64.efi` =>[Yours_x64.efi]=>[Yours]<br/>
 #### 檔案結構樹狀圖
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/Yours-UEFI.png">
 
