@@ -24,7 +24,7 @@ Your own usual rEFInd's sign for UEFI firmware.<br/>
 - 支持 64bit UEFI；
 - GPU/vBIOS 支持 UEFI；
 #### 工作原理
-[Power On]=>[UEFI Firmware]=>[BOOTX64.EFI] `shimx64.efi` 重命名的 =>[fbx64.efi] `PreLoader.efi` 重命名的 =>[grubx64_real.efi] 链接到 `Yours_x64.efi` =>[Yours_x64.efi]=>[Yours]<br/>
+[Power On]=>[UEFI Firmware]=>[BOOTX64.EFI] `shimx64.efi` 重命名的 =>[MokManager.efi] `PreLoader.efi` 重命名的 =>[grubx64_real.efi] 链接到 `Yours_x64.efi` =>[Yours_x64.efi]=>[Yours]<br/>
 #### 文件结构树状图
 <img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/Yours-UEFI.png">
 
@@ -47,7 +47,7 @@ Your own usual rEFInd's sign for UEFI firmware.<br/>
 #### 复制到 ESP 分区
 - 删除文件夹 `ESP: ESP\EFI\Boot`；
 - 复制文件夹 `zip: ESP\EFI\Yours` 到 `ESP: \EFI`；
-- 复制文件夹 `zip: ESP\EFI\BOOT` 到 `ESP: \EFI`；
+- 复制文件夹 `zip: ESP\EFI\Boot` 到 `ESP: \EFI`；
 - 复制文件 `zip: ESP\startup.nsh` 到 `ESP: \`；
 - 复制文件 `zip: ESP\ENROLL_THIS_KEY_IN_MOKMANAGER.cer` 到 `ESP: \`；
 
