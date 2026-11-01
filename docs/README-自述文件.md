@@ -1,3 +1,9 @@
+亲爱的朋友们：<br/>
+    我生病了。病去如抽丝，掉了几层皮。<br/>
+	暂停更新，等我好转一些。<br/>
+<br/>
+<br/>
+<br/>
 [icons](https://github.com/M-L-P/icons)|[rEFInd-theme-Yours](https://github.com/M-L-P/rEFInd-theme-Yours)|[Yours-LegacyBIOS](https://github.com/M-L-P/Yours-LegacyBIOS)|[Yours-UEFI](https://github.com/M-L-P/Yours-UEFI)
 -|-|-|-
 
@@ -26,7 +32,7 @@ Your own usual rEFInd's sign for UEFI firmware.<br/>
 #### 工作原理
 [Power On]=>[UEFI Firmware]=>[Bootx64.efi] `shimx64.efi` 重命名的 =>[MokManager.efi] `PreLoader.efi` 重命名的 =>[grubx64_real.efi] 链接到 `Yours_x64.efi` =>[Yours_x64.efi]=>[Yours]<br/>
 #### 文件结构树状图
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/Yours-UEFI.png">
+<img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/Yours-UEFI.png">
 
 -----------------------------------------------------------------------------------------------------------------------------------
 ## 💻️预览👀
@@ -34,8 +40,8 @@ Your own usual rEFInd's sign for UEFI firmware.<br/>
 <details>
 <summary>🖱️点击展开查看🖱️</summary>
 
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/about.real.png">
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.big.png">
+<img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours-UEFI/about.real.png">
+<img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.big.png">
 </details>
 
 ## 🧭指南⬇️
@@ -97,6 +103,6 @@ https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk
 - *Roderick W. Smith* 的 [rEFInd Boot Manager](http://www.rodsbooks.com/refind/)；
 - [a1ive](https://github.com/a1ive) 的 [grub2-filemanager](https://github.com/a1ive/grub2-filemanager)；
 - 安全启动补丁 来自 [ValdikSS](https://github.com/ValdikSS) 的 [Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk)；
-- 六音的 github 加速器，用于显示图片，https://gh.sixyin.com/ ；
+- moeyy 的 github 加速器，用于显示图片，https://github.moeyy.xyz/ ；
 
 ## [🧁请我吃块巧克力🍫](https://github.com/M-L-P/.github/blob/main/profile/chocolate/README.md)
